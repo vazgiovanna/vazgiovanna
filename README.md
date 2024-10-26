@@ -5,4 +5,4 @@
 - Trabalhando na Brasal Refrigerantes - Aprendizagem de Tecnologia da Informação
 - Aluna nas instituições: Universidade Católica de Brasília & Senai
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vazgiovanna&hide_progress=true&theme=dark)
