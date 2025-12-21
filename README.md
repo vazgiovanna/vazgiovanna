@@ -1,16 +1,65 @@
-<h1 align="center">Oi 👋, meu nome é Giovanna</h1>
-<h3 align="center">Sou uma desenvolvedora front-end em constante aprendizado.</h3>
+# 👋 Oi, eu sou a **Giovanna!**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vazgiovanna&label=Profile%20views&color=0e75b6&style=flat" alt="vazgiovanna" /> </p>
+✨ **Entusiasta de Tecnologia da Informação** e apaixonada por comunicação.  
+🌱 Em constante aprendizado como **desenvolvedora Front-End**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/giovanna-aguiar-vaz-437213236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giovanna-aguiar-vaz-437213236/" height="30" width="40" /></a>
-</p>
+📍 **Brasília, Distrito Federal**  
+📫 **Vamos nos conectar!**  
+🔗 [LinkedIn](https://www.linkedin.com/in/giovanna-aguiar-vaz-437213236) :contentReference[oaicite:1]{index=1}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vazgiovanna&show_icons=true&locale=en&layout=compact" alt="vazgiovanna" /></p>
+## 💻 Sobre mim
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vazgiovanna&show_icons=true&locale=en" alt="vazgiovanna" /></p>
+Atualmente estou focada em desenvolver minhas habilidades em tecnologias web e aprender boas práticas de desenvolvimento. Gosto de criar pequenos projetos que me ajudam a consolidar o que estou estudando e explorar novas ideias. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+Aqui estão algumas das tecnologias que mais uso e estudo:
+
+- 🟨 **HTML**
+- 🎨 **CSS**
+- ⚛️ **React (em estudo)**
+- 🟡 **JavaScript**
+- 🛠️ **Git / GitHub**
+- 🧠 **Comunicação e trabalho em equipe**  
+- 📦 **Firebase** (conceitos básicos)  
+- 🛢️ **MySQL** (conceitos básicos) :contentReference[oaicite:3]{index=3}
+
+---
+
+## 📌 Projetos em destaque
+
+Alguns repositórios que você pode conferir:
+
+| Projeto | Descrição | Linguagem |
+|---------|-----------|-----------|
+| **[front-end](https://github.com/vazgiovanna/front-end)** | Repositório de front-end das aulas no SENAI | HTML :contentReference[oaicite:4]{index=4} |
+| **[algoritmos](https://github.com/vazgiovanna/algoritmos)** | Repositórios de algoritmos da faculdade | C :contentReference[oaicite:5]{index=5} |
+| **[goblingummy](https://github.com/vazgiovanna/goblingummy)** | Projeto de site de doces (fork) | HTML :contentReference[oaicite:6]{index=6} |
+| **[stunning-beauty](https://github.com/vazgiovanna/stunning-beauty)** | Site de produtos cosméticos com foco em skincare | HTML :contentReference[oaicite:7]{index=7} |
+
+> 💡 *Mais projetos podem ser encontrados na aba de repositórios!* :contentReference[oaicite:8]{index=8}
+
+---
+
+## 🎯 Objetivos
+
+- 🚀 Melhorar minhas habilidades em **JavaScript e frameworks modernos**
+- 🧩 Aprender **React.js** e boas práticas de UI/UX
+- 🤝 Contribuir com projetos open-source🤓
+
+---
+
+## 📫 Como me encontrar
+
+📌 **LinkedIn:** https://www.linkedin.com/in/giovanna-aguiar-vaz-437213236  
+📌 **GitHub:** https://github.com/vazgiovanna :contentReference[oaicite:9]{index=9}
+
+---
+
+## ❤️ Obrigada pela visita!
+
+Se quiser colaborar ou só bater um papo sobre tecnologia, me manda um *follow*! 😊
