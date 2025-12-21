@@ -25,7 +25,7 @@ Aqui estão algumas das tecnologias que mais uso e estudo:
 - 🛠️ **Git / GitHub**
 - 🧠 **Comunicação e trabalho em equipe**  
 - 📦 **Firebase** (conceitos básicos)  
-- 🛢️ **MySQL** (conceitos básicos) :contentReference[oaicite:3]{index=3}
+- 🛢️ **MySQL** (conceitos básicos) 
 
 ---
 
@@ -53,7 +53,7 @@ Alguns repositórios que você pode conferir:
 ## 📫 Como me encontrar
 
 📌 **LinkedIn:** https://www.linkedin.com/in/giovanna-aguiar-vaz-437213236  
-📌 **GitHub:** https://github.com/vazgiovanna :contentReference[oaicite:9]{index=9}
+📌 **GitHub:** https://github.com/vazgiovanna 
 
 ---
 
